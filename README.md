@@ -1,12 +1,7 @@
 node-rssparser
 ----------------
 
-rssparser is a RSS/ATOM feed parser that returns the requested feed urls in a json object that is formatted so that you will not have to worry (much) about the format of the requested feed.
-
-Motivation
-----------
-
-RSS and ATOM feeds are both trying to deliver similar content, but are different enough with their structure to be aggravating. The purpose of rssparser is to allow for the important parts of the feeds (article titles, links, etc) to be returned in a standard format, but to also return the rest of the feed in a reasonable way.
+rssparser is a RSS/ATOM feed parser that returns the requested feed urls in a simple json object 
 
 Installing
 ----------
@@ -27,10 +22,6 @@ var parser = require('rssparser');
 var options = {};
 //rss feeds
 parser.parseURL('http://laymansite.com/feed', options, function(err, out){
-	console.log(out);
-});
-//atom feeds
-parser.parseURL('http://www.blogger.com/feeds/10861780/posts/default', options, function(err, out){
 	console.log(out);
 });
 ```
