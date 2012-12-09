@@ -46,15 +46,23 @@ The 'minimal' output format is:
 {
 	type:"rss" or "atom"
 	title: Title of the feed
-	desc: description or subtitle
+	description: description or subtitle
 	url: url of the feed
-	update: pubDate or update time of the feed
+	last_modified: pubDate or update time of the feed
 	items:[
 		{
 			title: Title of article
-			desc:	Description or content of article
-			link: Link to article
-			date: Time article was published
+			summary	: Summary or content of article
+			url	: Url of the article
+			categories : Categories of the article
+			published_at: published date in relative
+			time_ago: time in words
+			author:	name of the author	
+			guid		
+			{
+				link : link of the article
+				isPermaLink	: isPermaLink true or false
+			}	
 		}...
 	]
 ```
