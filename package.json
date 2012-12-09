@@ -24,7 +24,7 @@
     "test": "vows --spec"
   },
   "main": "./lib/feed.js",
-  "readme": "node-rssparser"
+  "readme": "node-rssparser",
   "readmeFilename": "README.md",
   "_id": "rssparser@0.0.1",
   "_from": "rssparser"
