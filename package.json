@@ -1,6 +1,6 @@
 {
   "name": "rssparser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "rssparser is an all purpose RSS/ATOM feed parser that parses feeds into a JSON format.",
   "keywords": [
     "rss",
@@ -26,6 +26,6 @@
   "main": "./lib/feed.js",
   "readme": "node-rssparser",
   "readmeFilename": "README.md",
-  "_id": "rssparser@0.0.1",
+  "_id": "rssparser@0.0.2",
   "_from": "rssparser"
 }
