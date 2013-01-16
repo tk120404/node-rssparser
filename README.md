@@ -70,3 +70,8 @@ npm test
 Make sure that you machine has an internet connection before running the
 tests.
 
+License
+-------
+
+http://wtfpl.org/
+
