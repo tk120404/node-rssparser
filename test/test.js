@@ -18,7 +18,6 @@ vows.describe('bindparser').addBatch({
     },
     'response is properly formatted':function(err, docs){
       assert.equal(docs.type, 'rss');
-      assert.isObject(docs.metadata);
       assert.isArray(docs.items);
     }
   },
@@ -32,7 +31,6 @@ vows.describe('bindparser').addBatch({
     },
     'response is properly formatted':function(err, docs){
       assert.equal(docs.type, 'atom');
-      assert.isObject(docs.metadata);
       assert.isArray(docs.items);
     }
   },
@@ -46,7 +44,6 @@ vows.describe('bindparser').addBatch({
     },
     'response is formatted as rss':function(err, docs){
       assert.equal(docs.type, 'rss');
-      assert.isObject(docs.metadata);
       assert.isArray(docs.items);
     }
   },
