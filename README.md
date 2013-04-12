@@ -3,6 +3,8 @@ node-rssparser
 
 rssparser is a RSS/ATOM feed parser that returns the requested feed urls in a simple json object 
 
+[![build status](https://secure.travis-ci.org/tk120404/node-rssparser.png)](http://travis-ci.org/tk120404/node-rssparser)
+
 Installing
 ----------
 
