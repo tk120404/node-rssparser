@@ -72,6 +72,15 @@ npm test
 Make sure that you machine has an internet connection before running the
 tests.
 
+
+Option reference
+----------------
+
+Here is the reference for other [options](https://github.com/mikeal/request#requestoptions-callback) that can be used 
+along with the default options
+
+
+
 Change log
 ----------
 
