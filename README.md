@@ -93,3 +93,7 @@ License
 
 http://wtfpl.org/
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tk120404/node-rssparser/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
