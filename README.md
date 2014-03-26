@@ -1,4 +1,4 @@
-node-rssparser
+node-rssparser   [![endorse](https://api.coderwall.com/tk120404/endorsecount.png)](https://coderwall.com/tk120404)
 ----------------
 
 rssparser is a RSS/ATOM feed parser that returns the requested feed urls in a simple json object 
