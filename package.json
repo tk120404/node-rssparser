@@ -1,6 +1,6 @@
 {
     "name": "rssparser",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "rssparser is an all purpose RSS/ATOM feed parser that parses feeds into a JSON format.",
     "keywords": [
         "rss",
