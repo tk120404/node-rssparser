@@ -28,6 +28,6 @@
     "main": "./lib/feed.js",
     "readme": "node-rssparser",
     "readmeFilename": "README.md",
-    "_id": "rssparser@0.0.4",
+    "_id": "rssparser@0.0.5",
     "_from": "rssparser"
 }
