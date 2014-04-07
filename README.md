@@ -23,7 +23,7 @@ Using rss parser is easy, just call:
 var parser = require('rssparser');
 var options = {};
 //rss feeds
-parser.parseURL('http://laymansite.com/feed', options, function(err, out){
+parser.parseURL('http://laymansite.com/rss', options, function(err, out){
 	console.log(out);
 });
 ```
