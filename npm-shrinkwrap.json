@@ -1,6 +1,6 @@
 {
   "name": "rssparser",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "xml2js": {
       "version": "0.2.6",
