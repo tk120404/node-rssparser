@@ -83,10 +83,10 @@ along with the default options
 
 Change log
 ----------
-
-0.0.3 thumbnails added
-0.0.2 atom parser changes
-0.0.1 initial
+* 0.0.4 More checks for attributes
+* 0.0.3 thumbnails added
+* 0.0.2 atom parser changes
+* 0.0.1 initial
 
 License
 -------
