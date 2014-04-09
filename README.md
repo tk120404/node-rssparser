@@ -83,8 +83,9 @@ along with the default options
 
 Change log
 ----------
+* 0.0.7 More check for the attributes like title, summary in atom feed
 * 0.0.6 Minor changes
-* 0.0.5 More check for the attributes like title,summary,link and categories
+* 0.0.5 More check for the attributes like title,summary,link and categories in RSS feed
 * 0.0.4 minor changes
 * 0.0.3 thumbnails added
 * 0.0.2 atom parser changes
