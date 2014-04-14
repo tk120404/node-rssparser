@@ -1,7 +1,7 @@
 {
     "name": "rssparser",
     "version": "0.0.7",
-    "author": Arjunkumar Krishnamoorthy
+    "author": "Arjunkumar Krishnamoorthy",
     "description": "rssparser is an all purpose RSS/ATOM feed parser that parses feeds into a JSON format.",
     "keywords": [
         "rss",
