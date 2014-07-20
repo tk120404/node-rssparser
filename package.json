@@ -1,6 +1,6 @@
 {
     "name": "rssparser",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "author": "Arjunkumar Krishnamoorthy",
     "description": "rssparser is an all purpose RSS/ATOM feed parser that parses feeds into a JSON format.",
     "keywords": [
@@ -9,11 +9,12 @@
         "feed",
         "parser",
         "xml",
+        "encoded",
         "json"
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/tk120404/node-rssparser.git"
+        "url": "https://github.com/tk120404/node-rssparser.git"
     },
     "dependencies": {
         "xml2js": ">=0.2.0",
@@ -30,6 +31,6 @@
     "main": "./lib/feed.js",
     "readme": "node-rssparser",
     "readmeFilename": "README.md",
-    "_id": "rssparser@0.0.8",
+    "_id": "rssparser@0.0.9",
     "_from": "rssparser"
 }
