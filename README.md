@@ -83,6 +83,7 @@ along with the default options
 
 Change log
 ----------
+* 0.0.8 Handled encoded request
 * 0.0.7 More check for the attributes like title, summary in atom feed
 * 0.0.6 Minor changes
 * 0.0.5 More check for the attributes like title,summary,link and categories in RSS feed
