@@ -23,7 +23,7 @@ vows.describe('bindparser').addBatch({
   },
   'atom tests':{
     topic:function(){
-      parser.parseURL('http://www.blogger.com/feeds/10861780/posts/default', {}, this.callback);
+      parser.parseURL('http://brandthinkmarketingdo.com/feed/atom/', {}, this.callback);
     },
     'response is not null':function(err, docs){
       assert.isNull(err);
