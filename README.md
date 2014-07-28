@@ -3,7 +3,8 @@ node-rssparser   [![endorse](https://api.coderwall.com/tk120404/endorsecount.png
 
 rssparser is a RSS/ATOM feed parser that returns the requested feed urls in a simple json object 
 
-[![build status](https://secure.travis-ci.org/tk120404/node-rssparser.png)](http://travis-ci.org/tk120404/node-rssparser) [![NPM](https://nodei.co/npm/rssparser.png)](https://nodei.co/npm/rssparser/)  ![NPM](https://nodei.co/npm-dl/rssparser.png)
+[![build status](https://secure.travis-ci.org/tk120404/node-rssparser.png)](http://travis-ci.org/tk120404/node-rssparser)[![Code Climate](https://codeclimate.com/github/tk120404/node-rssparser.png)](https://codeclimate.com/github/tk120404/node-rssparser) 
+[![NPM](https://nodei.co/npm/rssparser.png)](https://nodei.co/npm/rssparser/)  ![NPM](https://nodei.co/npm-dl/rssparser.png)
 
 Installing
 ----------
