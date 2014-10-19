@@ -57,5 +57,20 @@ vows.describe('bindparser').addBatch({
         assert.isNull(docs);
       }
     }
+  },
+  'verbose mode': {
+    'it adds the original items': {
+      topic: function () {
+        parser.parseURL(
+          'http://www.espnscrum.com/rss/rugby/rss/headlines_fantasy.rss',
+          { pipeOriginal: true },
+          this.callback
+        );
+      },
+      'returns the complete item': function (err, docs) {
+        assert.isNull(err);
+        assert.isObject(docs.items[0].original);
+      }
+    }
   }
 }).export(module);
