@@ -1,6 +1,6 @@
 {
     "name": "rssparser",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "author": "Arjunkumar Krishnamoorthy",
     "contributors": [
         "Javier Scappini",
@@ -21,10 +21,10 @@
         "url": "https://github.com/tk120404/node-rssparser.git"
     },
     "dependencies": {
-        "xml2js": ">=0.2.0",
-        "request": ">=2.9.3",
-        "underscore": ">=1.3.3",
-        "iconv": ">=2.1.4"
+        "iconv": "^2.3.0",
+        "request": "^2.83.0",
+        "underscore": "^1.8.3",
+        "xml2js": "^0.4.19"
     },
     "devDependencies": {
         "vows": "*"
@@ -35,6 +35,6 @@
     "main": "./lib/feed.js",
     "readme": "node-rssparser",
     "readmeFilename": "README.md",
-    "_id": "rssparser@0.0.10",
+    "_id": "rssparser@0.0.11",
     "_from": "rssparser"
 }

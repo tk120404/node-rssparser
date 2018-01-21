@@ -1,4 +1,4 @@
-node-rssparser   [![endorse](https://api.coderwall.com/tk120404/endorsecount.png)](https://coderwall.com/tk120404)
+node-rssparser   
 ----------------
 
 rssparser is a RSS/ATOM feed parser that returns the requested feed urls in a simple json object 
@@ -84,6 +84,9 @@ along with the default options
 
 Change log
 ----------
+* 0.0.11 package versions updated
+* 0.0.10 Minor changes
+* 0.0.9 Minor changes
 * 0.0.8 Handled encoded request
 * 0.0.7 More check for the attributes like title, summary in atom feed
 * 0.0.6 Minor changes
@@ -100,5 +103,4 @@ http://wtfpl.org/
 
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tk120404/node-rssparser/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
